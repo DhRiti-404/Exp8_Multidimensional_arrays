@@ -1,4 +1,4 @@
-# 📊 2D Arrays in C++
+# 📊 Multidimensional Arrays in C++
 
 ## 🛠️ Tools Used
 - **Visual Studio Code**
